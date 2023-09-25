@@ -46,7 +46,11 @@ ___
 | RUSSELL-GPT | Fine-tuned | LLM developed by National University Health System in Singapore to enhance clinicians' productivity (e.g., medical Q&A, case note summarization) | - | - | - | [:link:](https://www.nuhsplus.edu.sg/article/ai-healthcare-in-nuhs-receives-boost-from-supercomputer) |
 | ClinicalBERT | Fine-Tuned | Modeling Clinical Notes and Predicting Hospital Readmission | - | [:link:]([https://arxiv.org/abs/2307.10432](https://arxiv.org/abs/1904.05342))  | - | - |
 
-
+<a name="Real Estate"></a>
+## Finance
+| Name | Type | Description | Demo | Paper | Repo | Site |
+| --- | --- | --- | --- | --- | --- | --- |
+| Roomgpt | ControlNet | Upload a photo of your room to generate your dream room with AI. |[:link:]([https://arxiv.org/abs/2306.06031](https://www.roomgpt.io/)) | - | [:link:]([https://finchat.io/](https://github.com/Nutlope/roomGPT))  | - |
 
 ___
 <!-- <a name="telco"></a>
