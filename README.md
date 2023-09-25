@@ -46,6 +46,8 @@ ___
 | PharmacyGPT | In-context Learning | GPT-4 model coupled with in-context learning (dynamic prompting approach) involving domain-specific data | - | [:link:](https://arxiv.org/abs/2307.10432)  | - | - |
 | RUSSELL-GPT | Fine-tuned | LLM developed by National University Health System in Singapore to enhance clinicians' productivity (e.g., medical Q&A, case note summarization) | - | - | - | [:link:](https://www.nuhsplus.edu.sg/article/ai-healthcare-in-nuhs-receives-boost-from-supercomputer) |
 | ClinicalBERT | Fine-Tuned | Modeling Clinical Notes and Predicting Hospital Readmission | - | [:link:]([https://arxiv.org/abs/2307.10432](https://arxiv.org/abs/1904.05342))  | - | - |
+| DrugGPT | Fine-tuned | A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins| [:link:]([https://www.youtube.com/watch?v=3Ud-BMOCkDI&ab_channel=Google](https://github.com/LIYUESEN/druggpt)) | [:link:]([https://arxiv.org/pdf/2305.09617.pdf](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1))  | - | - |
+
 
 <a name="Real Estate"></a>
 ## Real Estate
