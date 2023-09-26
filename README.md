@@ -49,8 +49,8 @@ ___
 | DrugGPT | Fine-tuned | A GPT-based Strategy for Designing Potential Ligands Targeting Specific Proteins| [:link:]([https://www.youtube.com/watch?v=3Ud-BMOCkDI&ab_channel=Google](https://github.com/LIYUESEN/druggpt)) | [:link:]([https://arxiv.org/pdf/2305.09617.pdf](https://www.biorxiv.org/content/10.1101/2023.06.29.543848v1))  | - | - |
 
 
-<a name="Real Estate"></a>
-## Real Estate
+<a name="Real-Estate"></a>
+## Real-Estate
 | Name | Type | Description | Demo | Paper | Repo | Site |
 | --- | --- | --- | --- | --- | --- | --- |
 | Roomgpt | ControlNet | Upload a photo of your room to generate your dream room with AI. |[:link:]([https://arxiv.org/abs/2306.06031](https://www.roomgpt.io/)) | - | [:link:]([https://finchat.io/](https://github.com/Nutlope/roomGPT))  | - |
